@@ -10,7 +10,10 @@
 
 Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
 
-## Technologies Used
+##Projects
+1. [Basic Calculator](): 
+
+## Technologies Used:
 - 🌐HTML
 - 🎨CSS
 - ⚡JavaScript
