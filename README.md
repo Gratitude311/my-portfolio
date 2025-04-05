@@ -1,5 +1,6 @@
 
-# 👩💻 *Coding with ✨ Antoniette Tee* ✨  
+# 👩💻 *Coding with ✨ Antoniette Tee* ✨
+  
 *"Building the web, one line of code at a time… with a side of crypto dreams ☕⛓️"*  
 ---
 
