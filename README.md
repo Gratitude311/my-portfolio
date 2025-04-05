@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
+Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites. I love learning new technologies, solving problems, and building projects that make a difference, from apps to trading systems! When I’m not coding, you can find me in the crypto space, exploring new coffee shops or diving into SEO & Blog writing. My passion for Tech, came as a result of wanting to have a more knowledge on blockchain. I look forward to making my dream blockhain and build powerful Fintech apps and websites.
 
 ## My Projects
 1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): This project is a basic calculator I created using Python. The calculator can add, subtract, multiply, and divide numbers. A very effective tool for mathematical functions.
@@ -21,6 +21,9 @@ Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectaf
 - 🌐HTML
 - 🎨CSS
 - ⚡JavaScript
+-  MYSQL
+-  Database
+-  Git and Github
 
 ## Features
 - Smooth and responsive layout
