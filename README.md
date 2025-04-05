@@ -41,7 +41,7 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 🐍 Python | 🗃️ MySQL  
 
 **Tools:**  
-🔧 Git/GitHub  
+🔧 Git/🔄GitHub  
 
 ## 💼 Featured Projects
 1. **[➗ Basic Python Calculator](https://github.com/Gratitude311/basic-calculator.git):**  
