@@ -1,10 +1,11 @@
 # *Coding with Antoniette Tee*
+##*Welcome to my personal portfolio!*
 <p align="center">
  <img src="https://imgur.com/RKRrsYv.jpg" width="300" alt="my image">
 </p>
 
 ## About Me
-**Welcome to my personal portfolio!**
+
 Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
 
 ## Technologies Used
