@@ -23,7 +23,7 @@ Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectaf
 - ⚡JavaScript
 -  MYSQL
 -  Database
--  Git and Github
+-  Git and Github commands
 
 ## Features
 - Smooth and responsive layout
