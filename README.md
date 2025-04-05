@@ -56,11 +56,11 @@ When I'm not coding, you'll find me:
 
 ### Contact:
 🔗 **Let’s connect!**  
-- 📧 [Email](mailto:antoniettekagendo@gmail.com)  
-              | 👔 [LinkedIn](https://www.linkedin.com/in/antoniette-kagendo)
+- 📧 [Email](mailto:antoniettekagendo@gmail.com)  | 👔 [LinkedIn](https://www.linkedin.com/in/antoniette-kagendo)
 
-- 🐦 [X (Twitter)](https://x.com/AntonietteKage2)                                                        
-- 📸 [Instagram](https://www.instagram.com/antoniette_tee)     
+- 🐦 [X (Twitter)](https://x.com/AntonietteKage2)                                                  
+
+|- 📸 [Instagram](https://www.instagram.com/antoniette_tee)     
 
 
 Feel free to connect with me through email or on any of the above social platforms.  
