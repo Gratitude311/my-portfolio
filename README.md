@@ -10,8 +10,10 @@
 
 Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
 
-## Projects
-1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): 
+## My Projects
+1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): I used Python to write the code for this basic calculator. The calculator can add, subtract, multiply, and divide numbers. A very effective tool for mathematical functions.
+
+2. [Database Retrieval and Deletion](): 
 
 ## Technologies Used:
 - 🌐HTML
