@@ -1,4 +1,4 @@
-# Coding with Antoniette Tee
+# *Coding with Antoniette Tee*
 <p align="center">
  <img src="https://imgur.com/RKRrsYv.jpg" width="300" alt="my image">
 </p>
