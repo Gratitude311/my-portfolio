@@ -1,4 +1,7 @@
 # Coding with Antoniette Tee
+## About Me
+<p align="center">
+ <img src="
 
 Welcome to my personal portfolio!  
 I’m a passionate web developer who loves crafting beautiful and functional websites.
