@@ -10,7 +10,7 @@
 
 
 ## 👩💻About Me
-🌱 **PLP Student** | 💻 **Web Dev Sorceress** | 🚀 **Future Blockchain Queen** 
+🌱 **[@PLP](https://academy.powerlearnprojectafrica.org/profile) Student** | 💻 **Web Dev Sorceress** | 🚀 **Future Blockchain Queen** 
 
 I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓️. Obsessed with:  
 - **Fintech that makes banks sweat** 💸  
