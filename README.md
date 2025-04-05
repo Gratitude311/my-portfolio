@@ -1,8 +1,10 @@
 # *Coding with Antoniette Tee*
-##*Welcome to my personal portfolio!*
+
+*Welcome to my personal portfolio!*
 <p align="center">
  <img src="https://imgur.com/RKRrsYv.jpg" width="300" alt="my image">
 </p>
+
 
 ## About Me
 
