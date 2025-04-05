@@ -14,16 +14,12 @@ I’m a passionate web developer who loves crafting beautiful and functional web
 - Interactive elements
 
 ## Contact:
-          <a href="mailto:antoniettekagendo@gmail.com">Gmail</a><br>
-           <a href="https://github.com/Gratitude311">GitHub</a><br>
-           <a href="https://www.linkedin.com/in/antoniette-kagendo">linkedin</a><br>
-           <a href="https://x.com/AntonietteKage2">X</a><br>
-           <a href="https://www.facebook.com/share/1LCod87zyU/">facebook</a><br>
-           <a href="https://www.instagram.com/antoniette_tee">instagram</a><br>
-           <a href="https://wa.me/message/RCMUTCNFYPUEI1>whataspp</a><br>
-           <a href="https://www.quora.com/profile/Antoniette-Kagendo">Quora</a><br>
+          [Gmail] (antoniettekagendo@gmail.com)                        | [Linkedin] (https://www.linkedin.com/in/antoniette-kagendo)
+          [X] (https://x.com/AntonietteKage2)                          | [Facebook] (https://www.facebook.com/share/1LCod87zyU/)
+          [Instagram] (https://www.instagram.com/antoniette_tee)       | [Quora] (https://www.quora.com/profile/Antoniette-Kagendo)
+          [Whatsapp] (https://wa.me/message/RCMUTCNFYPUEI1)               
 
-Feel free to connect with me through email or on social platforms.  
+Feel free to connect with me through email or on any of the above social platforms.  
 Let’s build the web together!
 
 ---
