@@ -11,7 +11,7 @@
 Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
 
 ##Projects
-1. [Basic Calculator](): 
+1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): 
 
 ## Technologies Used:
 - 🌐HTML
