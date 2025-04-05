@@ -9,8 +9,9 @@
 </p>
 
 
-## 👩💻About Me
 🌱 **[@PLP](https://academy.powerlearnprojectafrica.org/profile) Student** | 💻 **Web Dev Sorceress** | 🚀 **Future Blockchain Queen** 
+
+## 👩💻About Me
 
 I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓️. Obsessed with:  
 - **Fintech that makes banks sweat** 💸  
@@ -20,6 +21,36 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 *Fun fact:* My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos).  
 
 ---
+
+I'm a tech enthusiast who loves crafting beautiful, functional websites and exploring disruptive technologies. My journey into tech began with a fascination for blockchain, and now I'm working toward my dream of building:
+- 💰 Powerful fintech applications
+- ⛓️ Innovative blockchain solutions
+- 🌐 User-friendly web experiences
+
+When I'm not coding, you'll find me:
+- 📊 Analyzing crypto markets
+- ☕ Exploring new coffee shops
+- ✍️ Writing about tech and SEO
+
+## 🛠️ Technologies & Skills
+**Frontend:**  
+🌐 HTML | 🎨 CSS | ⚡ JavaScript  
+
+**Backend/Databases:**  
+🐍 Python | 🗃️ MySQL  
+
+**Tools:**  
+🔧 Git/GitHub  
+
+## 💼 Featured Projects
+1. **[Basic Calculator](https://github.com/Gratitude311/basic-calculator.git):**  
+   ➕➖✖️➗ A simple calculator handling core arithmetic operations  
+
+2. **MySQL Database Manager**  
+   🗂️ Create, delete, and query databases with clean SQL commands  
+
+3. **Data Retrieval System**  
+   🔍 Select and display specific data from custom databases  
 
 ## My Projects
 1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): This project is a basic calculator I created using Python. The calculator can add, subtract, multiply, and divide numbers. A very effective tool for mathematical functions.
