@@ -12,6 +12,15 @@
 ## 👩💻About Me
 🌱 **PLP Student** | 💻 **Web Dev Sorceress** | 🚀 **Future Blockchain Queen** 
 
+I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓️. Obsessed with:  
+- **Fintech that makes banks sweat** 💸  
+- **Blockchain that actually helps people** (not just NFTs of monkeys 🐒)  
+- **Websites so smooth, they feel like silk** 🕸️  
+
+*Fun fact:* My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos).  
+
+---
+
 Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites. I love learning new technologies, solving problems, and building projects that make a difference, from apps to trading systems! When I’m not coding, you can find me in the crypto space, exploring new coffee shops or diving into SEO & Blog writing. My passion for Tech, came as a result of wanting to have a more knowledge on blockchain. I look forward to making my dream blockhain and build powerful Fintech apps and websites.
 
 ## My Projects
