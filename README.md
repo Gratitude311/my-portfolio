@@ -23,3 +23,13 @@ Feel free to connect with me through email or on any of the above social platfor
 Let’s build the web together!
 
 ---
+
+
+### Contact:
+🔗 **Let’s connect!**  
+- 📧 [Email](mailto:enterilet@kagando@gmail.com)  
+- 👔 [LinkedIn](https://www.linkedin.com/in/antoniette-kagando)  
+- 🐦 [X (Twitter)](https://x.com/antoniettekagao)  
+- 📘 [Facebook](https://www.facebook.com/share/11Cedf7z4J0)  
+- 📸 [Instagram](https://www.instagram.com/antoniette_kap)  
+- 💬 [WhatsApp](https://wa.nnofmessage/REALITCHVPNJET)  
