@@ -11,9 +11,11 @@
 Hi, I'm Antoniette Kagendo, a student [@PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
 
 ## My Projects
-1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): I used Python to write the code for this basic calculator. The calculator can add, subtract, multiply, and divide numbers. A very effective tool for mathematical functions.
+1. [Basic Calculator](https://github.com/Gratitude311/basic-calculator.git): This project is a basic calculator I created using Python. The calculator can add, subtract, multiply, and divide numbers. A very effective tool for mathematical functions.
 
-2. [Database Retrieval and Deletion](): 
+2. [Database Creation,and Deletion](https://github.com/PLP-Database-Design/wk-1-Gratitude311.git): This project involves creation of a database, and dropping it using MySQL knowledge and its commands.
+
+3. [Data Retrival](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git):  This project involvesI selection of data from a specific database list and tables
 
 ## Technologies Used:
 - 🌐HTML
