@@ -1,8 +1,7 @@
 
 # 👩💻 *Coding with ✨ Antoniette Tee* ✨
   
-"*Building the web, one line of code at a time… with a side of crypto dreams ☕⛓️*"  
----
+*Building the web, one line of code at a time… with a side of crypto dreams ☕⛓️* 
 
 
 *Welcome to my personal portfolio!*
