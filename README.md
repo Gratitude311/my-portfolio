@@ -52,16 +52,6 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 - 🔍 [Quora](https://www.quora.com/profile/Antoniette-Kagendo)
 
 
-OR slide into my...  
-```python
-if you == "cool_human":  
-    print("Let’s build 🔥 stuff together!")  
-else:  
-    print("404 Connection Not Found")  
-```
-
----
-
 
 Feel free to connect with me through email or on any of the above social platforms.  
 Let’s build the web together!
