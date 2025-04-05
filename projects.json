@@ -6,12 +6,12 @@
             "link": "https://github.com/Fxroyalempres/basic-calculator.git"
         },
         {
-            "name": "Data Retrival, Database Creation,and Deletion",
+            "name": "Database Creation,and Deletion",
             "description": "I did select data from a database, using MySQL knowledge and its commands.",
             "link": "https://github.com/PLP-Database-Design/wk-1-Fxroyalempres.git"
         },
         {
-            "name": "Data Selection",
+            "name": "Data Retrival",
             "description": "A weather dashboard with API integration, styled with Tailwind CSS.",
             "link": "https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git"
         },
