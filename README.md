@@ -1,10 +1,10 @@
 # Coding with Antoniette Tee
-## About Me
 <p align="center">
  <img src="https://imgur.com/RKRrsYv.jpg" width="300" alt="my image">
 </p>
 
-Welcome to my personal portfolio!  
+## About Me
+**Welcome to my personal portfolio!**
 I’m a passionate web developer who loves crafting beautiful and functional websites.
 
 ## Technologies Used
