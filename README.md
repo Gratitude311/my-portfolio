@@ -1,7 +1,6 @@
 
-# ✨ Antoniette Kagendo ✨  
+# 👩💻 *Coding with ✨ Antoniette Tee* ✨  
 *"Building the web, one line of code at a time… with a side of crypto dreams ☕⛓️"*  
-# *Coding with Antoniette Tee*
 ---
 
 
