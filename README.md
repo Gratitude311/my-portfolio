@@ -28,7 +28,7 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 
 ---
 
-When I'm not coding, you'll find me:
+## 🌟 When I'm not coding, you'll find me:
 - 📊 Analyzing crypto markets
 - ☕ Exploring new coffee shops
 - ✍️ Writing about tech and SEO
@@ -59,7 +59,7 @@ When I'm not coding, you'll find me:
 - Clean and minimal design
 - Interactive elements
 
-### Contact:
+### 📬 Contact:
 🔗 **Let’s connect!**  
 - 📧 [Email](mailto:antoniettekagendo@gmail.com)  | 👔 [LinkedIn](https://www.linkedin.com/in/antoniette-kagendo)
 
@@ -67,6 +67,6 @@ When I'm not coding, you'll find me:
 
 
 Feel free to connect with me through email or on any of the above social platforms.  
-Let’s build the web together!
+Let’s build the web together!🚀  
 
 ---
