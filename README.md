@@ -27,9 +27,7 @@ Let’s build the web together!
 
 ### Contact:
 🔗 **Let’s connect!**  
-- 📧 [Email](mailto:enterilet@kagando@gmail.com)  
-- 👔 [LinkedIn](https://www.linkedin.com/in/antoniette-kagando)  
-- 🐦 [X (Twitter)](https://x.com/antoniettekagao)  
-- 📘 [Facebook](https://www.facebook.com/share/11Cedf7z4J0)  
-- 📸 [Instagram](https://www.instagram.com/antoniette_kap)  
-- 💬 [WhatsApp](https://wa.nnofmessage/REALITCHVPNJET)  
+- 📧 [Email](mailto:antoniettekagendo@gmail.com)                  | - 👔 [LinkedIn](https://www.linkedin.com/in/antoniette-kagendo)  
+- 🐦 [X (Twitter)](https://x.com/AntonietteKage2)                 | - 📘 [Facebook](https://www.facebook.com/share/1LCod87zyU/)
+- 📸 [Instagram](https://www.instagram.com/antoniette_tee)        | - 💬 [WhatsApp](https://wa.me/message/RCMUTCNFYPUEI1)
+- 🔍 [Quora](https://www.quora.com/profile/Antoniette-Kagendo)
