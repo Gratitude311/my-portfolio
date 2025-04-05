@@ -44,13 +44,13 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 🔧 Git/GitHub  
 
 ## 💼 Featured Projects
-1. **[Basic Python Calculator](https://github.com/Gratitude311/basic-calculator.git):**  
+1. **[➗ Basic Python Calculator](https://github.com/Gratitude311/basic-calculator.git):**  
    ➕➖✖️➗ A simple calculator handling core arithmetic operations  
 
-2. **[MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Gratitude311.git):**  
+2. **[🗄️MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Gratitude311.git):**  
    🗂️ Create, delete, and query databases with clean SQL commands  
 
-3. **[Data Retrival system](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git):**  
+3. **[🔍Data Retrival system](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git):**  
    🔍 Select and display specific data from custom databases  
 
 
