@@ -13,19 +13,15 @@
 
 ## 👩💻About Me
 
-I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓️. Obsessed with:  
-- **Fintech that makes banks sweat** 💸  
-- **Blockchain that actually helps people** (not just NFTs of monkeys 🐒)  
-- **Websites so smooth, they feel like silk** 🕸️  
+I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓️. I'm a tech enthusiast who loves crafting beautiful, functional websites and exploring disruptive technologies. My journey into tech began with a fascination for blockchain, and now I'm working toward my dream of building:   
+
+- 💰 **Powerful fintech applications that makes banks sweat** 💸  
+- ⛓️ **Innovative blockchain solutions that actually helps people** (not just NFTs of monkeys 🐒)  
+- 🌐 **User-friendly web experiences that are so smooth and feel like silk** 🕸️ 
 
 *Fun fact:* My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos).  
 
 ---
-
-I'm a tech enthusiast who loves crafting beautiful, functional websites and exploring disruptive technologies. My journey into tech began with a fascination for blockchain, and now I'm working toward my dream of building:
-- 💰 Powerful fintech applications
-- ⛓️ Innovative blockchain solutions
-- 🌐 User-friendly web experiences
 
 When I'm not coding, you'll find me:
 - 📊 Analyzing crypto markets
