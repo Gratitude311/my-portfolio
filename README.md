@@ -9,9 +9,9 @@
 I’m a passionate web developer who loves crafting beautiful and functional websites.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- 🌐HTML
+- 🎨CSS
+- ⚡JavaScript
 
 ## Features
 - Smooth and responsive layout
