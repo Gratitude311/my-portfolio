@@ -1,7 +1,7 @@
 # Coding with Antoniette Tee
 ## About Me
 <p align="center">
- <img src="https://imgur.com/a/04On1bG" width="300" alt="my image">
+ <img src="https://imgur.com/a/04On1bG.jpg" width="300" alt="my image">
 </p>
 
 Welcome to my personal portfolio!  
