@@ -5,7 +5,7 @@
 
 ## About Me
 **Welcome to my personal portfolio!**
-Hi, I'm Antoniette Kagendo, a student @[PLP] () and a passionate web developer who loves crafting beautiful and functional websites.
+Hi, I'm Antoniette Kagendo, a student @[PLP](https://academy.powerlearnprojectafrica.org/profile) and a passionate web developer who loves crafting beautiful and functional websites.
 
 ## Technologies Used
 - 🌐HTML
