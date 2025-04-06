@@ -3,13 +3,14 @@
   
 *Building the web, one line of code at a time… with a side of crypto dreams ☕⛓️* 
 
-<a href="/your-cv.pdf" dowload>
-  <button>Download CV</button>
-</a>
 
 <p align="center">
  <img src="https://imgur.com/RKRrsYv.jpg" width="300" alt="my image">
 </p>
+
+<a href="/your-cv.pdf" dowload>
+  <button>Download CV</button>
+</a>
 
 
 🌱 **[@PLP](https://academy.powerlearnprojectafrica.org/profile) Student** | 💻 **Web Dev Sorceress** | 🚀 **Future Blockchain Queen** [📄 CV](https://your-cv-link.pdf)
