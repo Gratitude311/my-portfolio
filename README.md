@@ -23,7 +23,7 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 - ⛓️ Develop blockchain solutions with real-world impact (not just NFTs 🐒)  
 - 🌐 Design web experiences smooth as silk 🕸️  
 
-[CV BUTTON]  <!--Top-right or after tagline -->
+[CV BUTTON]
 <a href="/your-cv.pdf" dowload>
   <button>Download CV</button>
 </a>
