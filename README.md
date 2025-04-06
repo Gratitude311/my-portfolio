@@ -8,9 +8,6 @@
  <img src="https://imgur.com/RKRrsYv.jpg" width="300" alt="my image">
 </p>
 
-<a href="/your-cv.pdf" dowload>
-  <button>Download CV</button>
-</a>
 
 
 🌱 **[@PLP](https://academy.powerlearnprojectafrica.org/profile) Student** | 💻 **Web Dev Sorceress** | 🚀 **Future Blockchain Queen** [📄 CV](https://your-cv-link.pdf)
