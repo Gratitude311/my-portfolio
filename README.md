@@ -50,7 +50,7 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 2. **[🗄️MySQL Database Manager](https://github.com/PLP-Database-Design/wk-1-Gratitude311.git):**  
    🗂️ Create, delete, and query databases with clean SQL commands  
 
-3. **[🔍Data Retrival system](https://github.com/PLP-Database-Design/wk-2a-Fxroyalempres.git):**  
+3. **[🔍Data Retrival system](https://github.com/PLP-Database-Design/wk-2a-Gratitude311.git):**  
    🔍 Select and display specific data from custom databases  
 
 
