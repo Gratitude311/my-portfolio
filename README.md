@@ -23,7 +23,9 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 - ⛓️ Develop blockchain solutions with real-world impact (not just NFTs 🐒)  
 - 🌐 Design web experiences smooth as silk 🕸️  
 
-[🚀 Download Full CV](https://img.shields.io/badge/🚀_Download_CV-%239900FF? style-for-the-badge&logo=bitcoin)
+<a href="/your-cv.pdf" dowload>
+  <button>Download CV</button>
+</a>
 
 
 *Fun fact:* My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos).  
