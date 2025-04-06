@@ -23,10 +23,12 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 - ⛓️ Develop blockchain solutions with real-world impact (not just NFTs 🐒)  
 - 🌐 Design web experiences smooth as silk 🕸️  
 
+[CV BUTTON]  <!--Top-right or after tagline -->
 <a href="/your-cv.pdf" dowload>
   <button>Download CV</button>
 </a>
-*Fun fact:* My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos).  
+
+*Fun fact: My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos)*.  
 ---
 
 ## 🌟 When I'm not coding, you'll find me:
