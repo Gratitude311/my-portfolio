@@ -26,10 +26,7 @@ I turn coffee ☕ into code 💻 and dreams 🌙 into decentralized reality ⛓�
 <a href="/your-cv.pdf" dowload>
   <button>Download CV</button>
 </a>
-
-
 *Fun fact:* My coding superpower is debugging while half-asleep 😴⚡ (and my weakness is iced caramel macchiatos).  
-
 ---
 
 ## 🌟 When I'm not coding, you'll find me:
